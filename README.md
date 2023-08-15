@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDutchDev&show_icons=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchDev&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+
 <!--
 **TheDutchDev/TheDutchDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
