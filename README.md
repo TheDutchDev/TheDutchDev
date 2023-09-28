@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+*If the images below don't load, please refresh the page.*
 <p>
 <img height="180em" src="https://github-readme-stats-dx5f.vercel.app/api?username=TheDutchDev&theme=transparent&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats-dx5f.vercel.app/api/top-langs/?username=TheDutchDev&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
