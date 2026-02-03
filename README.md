@@ -1,5 +1,11 @@
 ### Hi there 👋
+*If the images below don't load, please refresh the page.*
+<p>
+<img height="180em" src="https://github-readme-stats-dx5f.vercel.app/api?username=TheDutchDev&theme=transparent&show_icons=true&hide_border=true&cache=1676654300&cache_seconds=3600" />
+<img height="180em" src="https://github-readme-stats-dx5f.vercel.app/api/top-langs/?username=TheDutchDev&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache=1676654300&cache_seconds=3600"/>  
+</p>
 
+### Languages, Tools & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,23 +38,3 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-
-*If the images below don't load, please refresh the page.*
-<p>
-<img height="180em" src="https://github-readme-stats-dx5f.vercel.app/api?username=TheDutchDev&theme=transparent&show_icons=true&hide_border=true&cache=1676654300&cache_seconds=3600" />
-<img height="180em" src="https://github-readme-stats-dx5f.vercel.app/api/top-langs/?username=TheDutchDev&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache=1676654300&cache_seconds=3600"/>  
-</p>
-<!--
-**TheDutchDev/TheDutchDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
